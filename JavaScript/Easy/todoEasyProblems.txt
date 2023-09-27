@@ -1,0 +1,100 @@
+FizzBuzz ✅
+Reverse a String
+Palindrome Checker
+Factorialize a Number
+Find the Longest Word in a String
+Title Case a Sentence
+Return Largest Numbers in Arrays
+Confirm the Ending
+Repeat a String
+Truncate a String
+Chunky Monkey
+Slasher Flick
+Mutations
+Seek and Destroy
+Where do I Belong
+Caesars Cipher
+Sum All Numbers in a Range
+Diff Two Arrays
+Roman Numeral Converter
+Pig Latin
+DNA Pairing
+Missing letters
+Boo who
+Sorted Union
+Convert HTML Entities
+Spinal Tap Case
+Sum All Odd Fibonacci Numbers
+Sum All Primes
+Smallest Common Multiple
+Finders Keepers
+Drop it
+Steamroller
+Binary Agents
+Everything Be True
+Arguments Optional
+Make a Person
+Map the Debris
+Pairwise
+DNA Sequencing
+Binary to Decimal Converter
+Decimal to Binary Converter
+Binary to Hexadecimal Converter
+Hexadecimal to Binary Converter
+Decimal to Hexadecimal Converter
+Hexadecimal to Decimal Converter
+Caesar Cipher
+Vigenere Cipher
+Rail Fence Cipher
+Playfair Cipher
+Hill Cipher
+Affine Cipher
+Transposition Cipher
+Substitution Cipher
+XOR Cipher
+RSA Cipher
+MD5 Hash
+SHA-1 Hash
+SHA-256 Hash
+SHA-512 Hash
+Base64 Encoding
+Base64 Decoding
+URL Encoding
+URL Decoding
+ROT13 Cipher
+Morse Code Translator
+Braille Translator
+Pigpen Cipher
+Atbash Cipher
+Polybius Square Cipher
+Baconian Cipher
+Beaufort Cipher
+Autokey Cipher
+Playfair Cipher
+Columnar Transposition Cipher
+Rail Fence Cipher
+Hill Cipher
+Vigenere Cipher
+Affine Cipher
+Transposition Cipher
+Substitution Cipher
+XOR Cipher
+RSA Cipher
+MD5 Hash
+SHA-1 Hash
+SHA-256 Hash
+SHA-512 Hash
+Base64 Encoding
+Base64 Decoding
+URL Encoding
+URL Decoding
+ROT13 Cipher
+Morse Code Translator
+Braille Translator
+Pigpen Cipher
+Atbash Cipher
+Polybius Square Cipher
+Baconian Cipher
+Beaufort Cipher
+Autokey Cipher
+Columnar Transposition Cipher
