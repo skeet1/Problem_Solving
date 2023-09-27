@@ -6,11 +6,11 @@ Find the Longest Word in a String ✅
 Title Case a Sentence ✅
 Return Largest Numbers in Arrays  ✅
 Confirm the Ending ✅
-Repeat a String
-Truncate a String
-Chunky Monkey
-Slasher Flick
-Mutations
+Repeat a String ✅
+Truncate a String ✅
+Chunky Monkey ✅
+Slasher Flick  ✅
+Mutations  ✅
 Seek and Destroy
 Where do I Belong
 Caesars Cipher
