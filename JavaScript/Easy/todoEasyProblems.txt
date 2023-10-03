@@ -1,6 +1,6 @@
 FizzBuzz ✅
-Reverse a String
-Palindrome Checker
+Reverse a String ✅
+Palindrome Checker  ✅
 Factorialize a Number
 Find the Longest Word in a String
 Title Case a Sentence
